@@ -8,3 +8,5 @@
   * [linux虚拟内存swap配置](linux/swap.md)
   * [Ubuntu修改源地址](linux/UbuntuSourceChange.md)
   * [linux用户操作](linux/linuxUser.md)
+  * [git安装与免密操作](linux/git.md)
+* 前端开发技术文档
